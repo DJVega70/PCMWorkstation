@@ -1,0 +1,6 @@
+build/
+*.o
+pcm_test
+gen_levels
+*.log
+shot*.png
